@@ -15,7 +15,7 @@ local a, b = {
 				{
 					{50, "ModuleScript", {"Dark"}},
 					{54, "ModuleScript", {"Grey"}},		
-					{57, "ModuleScript", {"Gradient"}},		
+					{57, "ModuleScript", {"Gradien"}},		
 					{56, "ModuleScript", {"Enhanced"}},		
 					{55, "ModuleScript", {"R2LX"}},		
 					{52, "ModuleScript", {"Light"}},
@@ -5167,7 +5167,7 @@ local aa = {
 	end,
 	[47] = function()
 		local aa, ab, ac, ad, ae = b(47)
-		local af = {Names = {"Dark", "Darker", "Light", "Aqua", "Amethyst", "Rose", "Grey", "R2LX", "Enhanced", "Gradient"}}
+		local af = {Names = {"Dark", "Darker", "Light", "Aqua", "Amethyst", "Rose", "Grey", "R2LX", "Enhanced", "Gradien"}}
 		for ag, ah in next, ab:GetChildren() do
 			local aj = ac(ah)
 			af[aj.Name] = aj
@@ -5525,7 +5525,7 @@ end,
 [57] = function()
     local aa, ab, ac, ad, ae = b(57)
     return {
-        Name = "Gradient",
+        Name = "Gradien",
         Accent = Color3.fromRGB(178, 172, 255),
         AcrylicMain = Color3.fromRGB(178, 172, 255),
         AcrylicBorder = Color3.fromRGB(168, 172, 255),
