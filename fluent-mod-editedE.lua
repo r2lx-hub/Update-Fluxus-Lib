@@ -15,7 +15,7 @@ local a, b = {
 				{
 					{50, "ModuleScript", {"Dark"}},
 					{54, "ModuleScript", {"Grey"}},		
-					{56, "ModuleScript", {"Gradient"}},		
+					{57, "ModuleScript", {"Gradient"}},		
 					{56, "ModuleScript", {"Enhanced"}},		
 					{55, "ModuleScript", {"R2LX"}},		
 					{52, "ModuleScript", {"Light"}},
